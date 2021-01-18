@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600961249837",
+    "firebase_url": "https://merhaba-3afca.firebaseio.com",
+    "project_id": "merhaba-3afca",
+    "storage_bucket": "merhaba-3afca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600961249837:android:f53b7f8a977a9419",
+        "android_client_info": {
+          "package_name": "com.example.merhaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600961249837-53hsub9inqspfij2pt4tpne5fkmtdttt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWJuHUdtNW5xME9R7TvgyP4Vh3UDgST9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600961249837-53hsub9inqspfij2pt4tpne5fkmtdttt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
